@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "runforkidsmicroservice",
+    "packageName": "com.dbs.sg.rfk.application",
+    "packageFolder": "com/dbs/sg/rfk/application",
+    "serverPort": 8081,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "NjQ3Yzg4MGZjZWM3ODljYzVmZmE0OGUxMmU2NTE2ODhhZjE0MmFlNTQ1YjdhYTZmZmJkMzBhOTAyYmM5ZmFiNGZhMzcyOWY5MjU1ZWVjNWI2YjNlMTQyY2RkOTliNjU4NTE0MzA2Njk4MjNiNTE3YWE2ZWMwMjMyNzM5YmNiNzM=",
+    "otherModules": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "rajeevjha2k4",
+  "repository-name": "runforkidsmicroservice"
+}
